@@ -40,3 +40,10 @@ I created a simple food menu that displays both Veg and Non-Veg items. Here's wh
 2.VS Code (Text Editor)
 
 🌱 This is one of my first steps into the world of Frontend Web Development.
+
+💬 If you have suggestions or tips to make it better, feel free to comment below.
+Let’s grow together in this coding journey! 🚀
+
+#HTML #FrontendDevelopment #WebDesign #PentagonSpace #CodeNewbie #LearningJourney #ChinnuCodes #MrChinnu007 #FoodMenuProject
+
+
